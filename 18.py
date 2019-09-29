@@ -1,5 +1,5 @@
 import random
-print("Welcome to the Cows and Bulls Game!")
+print(" Welcome to the Cows and Bulls Game! ")
 n = random.randrange(1000 , 9999)
 ans = 0
 while n != ans:

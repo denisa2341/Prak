@@ -3,7 +3,7 @@ player1 = input()
 print("Write name 2 ")
 player2 = input()
 while 1:
-	print("You can choose 'Rock' , 'Paper' or 'Scissors'")
+	print("You can choose 'Rock' , 'Paper' or 'Scissors' ")
 	c = ("Rock" , "Paper" , "Scissors")
 	print("Write your element (player 1)")
 	a = input();
